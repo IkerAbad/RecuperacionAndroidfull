@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toHelp">toHelp</string>
+    <string name="Contactos">Contactos</string>
+    <string name="detalle_contacto">Detalle de Contacto</string>
+    <string name="lista_contactos">Lista de Contactos</string>
+</resources>

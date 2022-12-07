@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RecuperacionAndroid</string>
+
+    <string name="toHelp">toHelp</string>
+    <string name="Contactos">Contactos</string>
+    <string name="detalle_contacto">Detalle de Contacto</string>
+    <string name="lista_contactos">Lista de Contactos</string>
+    <string name="felicitar">Felicitar</string>
+
+    <!--Lista Contactos-->
+    <string name="contacto1_nombre">Ana</string>
+    <string name="contacto1_apellido">Lopez</string>
+    <string name="contacto1_mail">alopez@gmail.com</string>
+    <string name="contacto1_year">1991</string>
+    <string name="contacto1_numero">611111111</string>
+
+    <string name="contacto2_nombre">Pedro</string>
+    <string name="contacto2_apellido">Martínez</string>
+    <string name="contacto2_mail">pmartinez@gmail.com</string>
+    <string name="contacto2_year">1992</string>
+    <string name="contacto2_numero">622222222</string>
+
+    <string name="contacto3_nombre">Marta</string>
+    <string name="contacto3_apellido">Fernández</string>
+    <string name="contacto3_mail">mfernandez@gmail.com</string>
+    <string name="contacto3_year">1993</string>
+    <string name="contacto3_numero">633333333</string>
+
+    <string name="contacto4_nombre">Alfonso</string>
+    <string name="contacto4_apellido">García</string>
+    <string name="contacto4_mail">agarcia@gmail.com</string>
+    <string name="contacto4_year">1994</string>
+    <string name="contacto4_numero">644444444</string>
+
+    <string name="contacto5_nombre">Paula</string>
+    <string name="contacto5_apellido">Sanchez</string>
+    <string name="contacto5_mail">psanchez@gmail.com</string>
+    <string name="contacto5_year">1995</string>
+    <string name="contacto5_numero">655555555</string>
+</resources>
